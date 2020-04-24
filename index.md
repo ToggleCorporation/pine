@@ -1,10 +1,10 @@
 ## Toggle Pine
 
-[Toggle Pine](https://togglecorporation.github.io/pine/info) to maintain and preview the content for your website in Markdown files.
+[Toggle Pine](https://togglecorporation.github.io/pine/info) is a fun game, some say there's secrets to find, it seems doubtful, though.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Toggle Pine is free and will always be, you can download it from the downloads page, simply navigate there, select a version, and finaly decide what type of download you want.
 
-### Markdown
+### [Markdown](#markdown)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
