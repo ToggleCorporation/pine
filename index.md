@@ -2,7 +2,7 @@
 
 [Toggle Pine](https://togglecorporation.github.io/pine/info) is a fun game, some say there's secrets to find, it seems doubtful, though.
 
-Toggle Pine is free and will always be, you can download it from the versions page, simply navigate there, select a version, and finaly decide what type of download you want.
+Toggle Pine is free and will always be, you can download it from the [versions page](/versions), simply navigate there, select a version, and finaly decide what type of download you want.
 
 ### Discussion
 
